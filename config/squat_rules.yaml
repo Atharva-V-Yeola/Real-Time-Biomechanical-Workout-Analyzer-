@@ -1,0 +1,18 @@
+# Biomechanical thresholds (degrees)
+standing:
+  knee_min: 160
+  knee_max: 180
+
+squat:
+  knee_min: 90
+  knee_max: 120
+  torso_min: 140
+  torso_max: 190
+  heel_ankle_knee_min: 150
+  heel_ankle_knee_max: 165
+
+# Workout plan
+workout:
+  sets: 3
+  reps_per_set: 15
+  rest_seconds: 60
